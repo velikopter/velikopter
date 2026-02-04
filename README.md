@@ -1,16 +1,13 @@
-## Hi there 👋
+yeah i do that thing
 
-<!--
-**velikopter/velikopter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+website: https://nhjkl.com/~kierre/
+pgp key: https://nhjkl.com/~kierre/sec/pub.asc
 
-Here are some ideas to get you started:
+contact over:
+* [matrix](https://matrix.to/#/@vel:nhjkl.com) [(secondary)](https://matrix.to/#/@vel:faelix.im)
+* [email](mailto:vel@riseup.net)
+* [xmpp](xmpp:vel@xmpp.fi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[projects](https://nhjkl.com/~kierre/proj.htm)
+
+you could've also just visited my website for that info
