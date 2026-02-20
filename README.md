@@ -1,3 +1,5 @@
-supposed software developer (but I don't do any of that here)
+software developer
+
+i prefer working on the backend
 
 website: https://nhjkl.com/~kierre/
