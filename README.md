@@ -1,5 +1,7 @@
-software developer
+## vel
 
-i prefer working on the backend
+This account only exists for contributions. Fuck LLMs (and by extension fuck GitHub)
 
-website: https://nhjkl.com/~kierre/
+Find my projects at https://leakedsynapsepro.nhjkl.com/vel
+
+Website: https://www.nhjkl.com/~kierre/
